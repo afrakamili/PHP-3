@@ -24,7 +24,6 @@ function palindrome_angka($angka) {
         }
     echo $angka."<br>";
   }
-  echo "halo";
     //echo "<br>";
 };
 
@@ -44,5 +43,6 @@ echo palindrome_angka(1000); // 1001
     }
   }
 }*/
+
 ?>
 
